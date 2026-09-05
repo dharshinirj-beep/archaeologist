@@ -1,4 +1,3 @@
-(https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-lygkwwb2)
 🏺 Archaeologist — AI Personal Knowledge Archaeologist
 
 Search your memories, not your files.
